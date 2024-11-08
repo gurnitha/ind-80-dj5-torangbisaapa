@@ -30,4 +30,13 @@ Membuat aplikasi untuk memamerkan hasil karya menggunakan Django versi 5
 
 #### 2. Membuat lingkungan virtual
 
+	λ python -m venv venv312512
+	λ ls
+	src/  venv312512/
+
         modified:   README.md
+
+#### 3. Menginstal requirements
+
+        λ pip install -r requirements.txt
+
