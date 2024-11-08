@@ -27,3 +27,7 @@ Membuat aplikasi untuk memamerkan hasil karya menggunakan Django versi 5
         new file:   config/wsgi.py
         new file:   manage.py
         new file:   requirements.txt
+
+#### 2. Membuat lingkungan virtual
+
+        modified:   README.md
