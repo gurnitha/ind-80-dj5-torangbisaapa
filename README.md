@@ -38,5 +38,14 @@ Membuat aplikasi untuk memamerkan hasil karya menggunakan Django versi 5
 
 #### 3. Menginstal requirements
 
-        λ pip install -r requirements.txt
+        (venv312512) λ pip install -r requirements.txt
 
+#### 4. Mensetup environ variable pada file .env
+
+        DEBUG=True
+        SECRET_KEY=django-insecure-%5hrvtl+3hx7&6@-bfgr^ry$z(%liuh6(tet8brhr7n)=3w75c
+        DATABASE_NAME=ind_80_dj5_torangbisaapa
+        DATABASE_USER=postgres
+        DATABASE_PASSWORD=postgres
+        DATABASE_HOST=localhost
+        DATABASE_PORT=5432
