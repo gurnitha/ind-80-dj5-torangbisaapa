@@ -49,3 +49,5 @@ Membuat aplikasi untuk memamerkan hasil karya menggunakan Django versi 5
         DATABASE_PASSWORD=postgres
         DATABASE_HOST=localhost
         DATABASE_PORT=5432
+
+#### 5. Menampilkan Halo Dunia
